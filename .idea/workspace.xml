@@ -7,16 +7,10 @@
     <list default="true" id="7f585923-d82a-4b85-83f8-bc64d25daae5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/build/buildPlugins.ts" beforeDir="false" afterPath="$PROJECT_DIR$/config/build/buildPlugins.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/jest/jest.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/config/jest/jest.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/build/buildLoaders.ts" beforeDir="false" afterPath="$PROJECT_DIR$/config/build/buildLoaders.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/providers/ErrorBoundary/ui/ErrorBoundary.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/providers/ErrorBoundary/ui/ErrorBoundary.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/lib/classNames/classNames.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/lib/classNames/classNames.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/widgets/ErrorPage/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/PageError/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/widgets/ErrorPage/ui/ErrorPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/PageError/ui/ErrorPage.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/widgets/ErrorPage/ui/ErrorPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/PageError/ui/ErrorPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/widgets/Sidebar/ui/Sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/Sidebar/ui/Sidebar/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/ui/Button/Button.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Button/Button.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/ui/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Button/Button.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +60,7 @@
       <recent name="$PROJECT_DIR$/public/locales/ru" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
       <recent name="$PROJECT_DIR$/src/widgets" />
       <recent name="$PROJECT_DIR$/config/jest" />
       <recent name="$PROJECT_DIR$/src/widgets/Sidebar/ui/Sidebar" />
@@ -80,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676038157072</updated>
       <workItem from="1676038159432" duration="19250000" />
-      <workItem from="1676397254999" duration="8161000" />
+      <workItem from="1676397254999" duration="17419000" />
     </task>
     <servers />
   </component>
