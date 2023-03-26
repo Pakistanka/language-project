@@ -1,11 +1,12 @@
 {
-  "Тестовый пример": "Test example",
-  "Перевод": "Translate",
-  "Главная страница": "Main page",
-  "Язык": "English",
-  "новый перевод": "новый перевод",
-  "Страница не найдена": "Page not found",
-  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
-  "Обновить страницу": "Обновить страницу",
-  "throw error": "throw error"
+  "about": "About site",
+  "error": "Something has went wrong",
+  "language": "English",
+  "main": "Main",
+  "main_page": "Main page",
+  "not_found": "Page has not found",
+  "short_lang": "En",
+  "switch": "Switch",
+  "throw_error": "Throw error",
+  "update_page": "Update page"
 }

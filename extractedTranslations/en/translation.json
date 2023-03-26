@@ -1,11 +1,12 @@
 {
-  "not found page": "Not found page",
-  "throw error": "throw error",
-  "toggle": "Change",
-  "Главная страница": "Главная страница",
-  "О сайте": "О сайте",
-  "Обновить страницу": "Обновить страницу",
-  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
-  "Страница не найдена": "Страница не найдена",
-  "Язык": "Язык"
+  "about": "About site",
+  "error": "Something has went wrong",
+  "language": "Язык",
+  "main": "Main",
+  "main_page": "Main page",
+  "not_found": "Page has not found",
+  "short_lang": "En",
+  "switch": "Switch",
+  "throw_error": "throw error",
+  "update_page": "Update page"
 }
